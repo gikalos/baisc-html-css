@@ -1,0 +1,26 @@
+.title {
+    font-size: 50px;
+    text-align: center;
+    /* padding: 50px 0 */}
+    .name {
+        font-size: 14px;
+        text-align: right;
+        width: 400px;
+        margin: 0 auto;
+    }
+.contents {
+    font-size: 20px;
+    text-align: center;
+    line-height: 2;
+}
+.contents p {
+padding: 20px 0;
+margin: 40px 0;
+}
+body{
+    /* background-color: aquamarine; */
+    background-image: url("dg.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
