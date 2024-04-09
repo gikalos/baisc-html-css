@@ -1,0 +1,32 @@
+.title {
+    font-size: 30px;
+text-align: center;
+padding: 15px;
+}
+.name {
+text-align: right;
+
+margin: 0 auto;
+width: 400px;
+font-weight: bold
+} 
+.t1 {
+text-align: center;
+padding: 20;
+margin: 15;
+font-weight: bold;
+color: rgba(83, 27, 27, 0.945)
+}
+.t2 {text-align: center;
+    margin: 15;
+    font-weight: bold;
+    color: rgba(172, 101, 101, 0.979)
+
+} 
+
+body {
+    background-image: url(bb.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
